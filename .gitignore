@@ -1,0 +1,11 @@
+# Visual Studio / .NET Build Artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+.vs/
+.idea/
+.vscode/
